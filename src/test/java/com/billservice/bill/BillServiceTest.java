@@ -15,7 +15,7 @@ public class BillServiceTest {
 	@Test
 	public void getPersonThenReturnJsonResponse() throws Exception {
 
-		Assert.assertEquals(true, true);
+		Assert.assertEquals(true, false);
 		
 		
 	}
